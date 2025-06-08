@@ -1,0 +1,11 @@
+customer_id,customer_name,email,age,city,purchase_amount,registration_date,status
+1,John Doe,john.doe@example.com,30,New York,150.50,2023-01-15,active
+2,Jane Smith,jane.smith@example.com,25,Los Angeles,200.75,2023-02-20,active
+3,Bob Johnson,bob.johnson@example.com,35,Chicago,99.99,2023-01-10,active
+4,Alice Brown,alice.brown@example.com,28,Boston,175.25,2023-03-05,active
+5,Charlie Davis,charlie.davis@example.com,42,Seattle,300.00,2023-01-25,premium
+6,Diana Wilson,invalid-email-format,33,Miami,125.80,2023-02-14,active
+7,Edward Miller,edward.miller@example.com,29,Denver,89.99,2023-03-12,inactive
+8,Fiona Garcia,fiona.garcia@example.com,31,Phoenix,250.00,2023-01-30,premium
+9,George Lee,george.lee@example.com,27,Portland,180.45,2023-02-08,active
+10,Helen Clark,helen.clark@example.com,38,Austin,220.30,2023-01-18,premium

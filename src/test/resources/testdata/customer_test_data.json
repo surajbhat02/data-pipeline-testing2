@@ -1,0 +1,84 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 30,
+      "city": "New York",
+      "purchase_amount": 150.50,
+      "registration_date": "2023-01-15",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "age": 25,
+      "city": "Los Angeles",
+      "purchase_amount": 200.75,
+      "registration_date": "2023-02-20",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "age": 35,
+      "city": "Chicago",
+      "purchase_amount": 99.99,
+      "registration_date": "2023-01-10",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "Alice Brown",
+      "email": "alice.brown@example.com",
+      "age": 28,
+      "city": "Boston",
+      "purchase_amount": 175.25,
+      "registration_date": "2023-03-05",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Davis",
+      "email": "charlie.davis@example.com",
+      "age": 42,
+      "city": "Seattle",
+      "purchase_amount": 300.00,
+      "registration_date": "2023-01-25",
+      "status": "premium"
+    },
+    {
+      "id": 6,
+      "name": "Diana Wilson",
+      "email": "invalid-email-format",
+      "age": 33,
+      "city": "Miami",
+      "purchase_amount": 125.80,
+      "registration_date": "2023-02-14",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "name": "Edward Miller",
+      "email": "edward.miller@example.com",
+      "age": 29,
+      "city": "Denver",
+      "purchase_amount": 89.99,
+      "registration_date": "2023-03-12",
+      "status": "inactive"
+    },
+    {
+      "id": 8,
+      "name": "Fiona Garcia",
+      "email": "fiona.garcia@example.com",
+      "age": 31,
+      "city": "Phoenix",
+      "purchase_amount": 250.00,
+      "registration_date": "2023-01-30",
+      "status": "premium"
+    }
+  ]
+}
